@@ -2,7 +2,6 @@ package com.devopsdemo.utilities;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Date;
-import java.util.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
