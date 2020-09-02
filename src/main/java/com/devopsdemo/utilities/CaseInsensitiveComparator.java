@@ -1,13 +1,13 @@
 package com.devopsdemo.utilities;
 
-//Abhishek Bajpai
-
 import java.lang.reflect.InvocationTargetException;
 import java.util.Date;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/*
+ * @author Abhishek Bajpai
+ */
 public class CaseInsensitiveComparator extends GenericComparator {
 
         private static final long serialVersionUID = -6836701171640412573L;
